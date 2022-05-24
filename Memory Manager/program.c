@@ -1,3 +1,8 @@
+/* 
+ * Virtual Memory Manager
+ * Authors: Travis, Emily
+ * File Description: This program translates logical to physical addresses. 
+ */
 #include <stdio.h>
 #include <stdlib.h>
 #include <sys/mman.h>	// For mmap() function
