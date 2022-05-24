@@ -15,3 +15,16 @@ page faults.
 
 **TLB hit rate**—The percentage of address references that were resolved in
 the TLB.
+
+
+## Running The Program
+
+To run the code, download all the files and compile it in c using the following:
+
+``gcc program.c -o a.out``
+
+Then run the following command:
+
+``./a.out addresses.txt.``
+
+The contents of *output*.txt will be printed to your terminal.
