@@ -999,5 +999,5 @@ Virtual address: 9929 Physical address = 6089 Value=0
 Virtual address: 45563 Physical address = 6395 Value=126 
 Virtual address: 12107 Physical address = 6475 Value=-46 
 Total addresses = 1000 
-Page_faults = 538 
-TLB Hits = 53 
+Page Fault Rate = 53.8% 
+TLB Hit Rate = 5.3% 
